@@ -4,12 +4,12 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2015-09-01', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
  HEO_NOTICE_BAR: [
-    { title: 'Bitcoin (BTC)prices, live quotes and news', url: 'https://www.google.com/finance/quote/BTC-AUD' },
-    { title: 'Real-time quotes of major global stock indexes', url: 'https://www.google.com/finance/' }
+    { title: 'Bitcoin prices and news', url: 'https://www.google.com/finance/quote/BTC-AUD' },
+    { title: 'Global Stock Index Updates', url: 'https://www.google.com/finance/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: 'Share financial knowledge',
-  HEO_HERO_TITLE_2: 'Make investments more beautiful',
+  HEO_HERO_TITLE_1: 'Share insights',
+  HEO_HERO_TITLE_2: 'Invest beautifully',
   HEO_HERO_TITLE_3: 'HAINAS JOY.COM',
   HEO_HERO_TITLE_4: 'Co-creation online',
   HEO_HERO_TITLE_5: 'Focus on sharing financial knowledge',
@@ -130,7 +130,7 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: 'communication channel',
-  HEO_SOCIAL_CARD_TITLE_2: 'Join our community to discuss and share',
+  //HEO_SOCIAL_CARD_TITLE_2: 'Join our community to discuss and share',
   HEO_SOCIAL_CARD_TITLE_3: 'Click to join the community',
   HEO_SOCIAL_CARD_URL: 'https://hainasjoy.com',
 
