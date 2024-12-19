@@ -7,8 +7,8 @@ const CONFIG = {
   HEO_SITE_CREATE_TIME: '', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
-  HEO_NOTICE_BAR: [
-    { title: 'Bitcoin (BTC) prices, live quotes and news', url: 'https://www.google.com/finance/quote/BTC-AUD' }
+ HEO_NOTICE_BAR: [
+    { title: 'Bitcoin (BTC)prices, live quotes and news', url: 'https://www.google.com/finance/quote/BTC-AUD' },
     { title: 'Real-time quotes of major global stock indexes', url: 'https://www.google.com/finance/' }
   ],
 
