@@ -12,7 +12,7 @@ export default function PoweredBy(props) {
       <a
         href='https://hainasjoy.com'
         className='underline justify-start'>
-        HAINASJOY@2024 {siteConfig('VERSION')}
+        HAINASJOYⓇ201509 {siteConfig('VERSION')}
       </a>
       .
     </div>
