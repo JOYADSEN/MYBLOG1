@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: 'Share insights',
   HEO_HERO_TITLE_2: 'Invest beautifully',
-  HEO_HERO_TITLE_3: 'HAINAS JOY.COM',
+  HEO_HERO_TITLE_3: 'HAINASJOY.COM',
   HEO_HERO_TITLE_4: 'Co-creation online',
   HEO_HERO_TITLE_5: 'Focus on sharing financial knowledge',
   HEO_HERO_TITLE_LINK: 'https://hainasjoy.com',
@@ -28,7 +28,7 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: 'Just take a stroll',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: 'tag/Top Picks', url: '/tag/Top Picks' },
+  HEO_HERO_CATEGORY_1: { title: 'Top Picks', url: '/tag/Top Picks' },
   HEO_HERO_CATEGORY_2: { title: 'Finance Trends', url: '/tag/Finance Trends' },
   HEO_HERO_CATEGORY_3: { title: 'Quick Guides', url: '/tag/Quick Guides' },
 
