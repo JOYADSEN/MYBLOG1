@@ -63,8 +63,8 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://hainasjoy.com',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
+  HEO_INFO_CARD_URL2: 'https://x.com/hainas_joy',
+  HEO_INFO_CARD_ICON2: 'fab fa-twitter',
   HEO_INFO_CARD_URL3: 'https://hainasjoy.com/tag',
   HEO_INFO_CARD_TEXT3: 'learn more',
 
@@ -132,7 +132,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: 'communication channel',
   //HEO_SOCIAL_CARD_TITLE_2: 'Join our community to discuss and share',
   HEO_SOCIAL_CARD_TITLE_3: 'Click to join the community',
-  HEO_SOCIAL_CARD_URL: 'https://hainasjoy.com',
+  HEO_SOCIAL_CARD_URL: 'https://x.com/hainas_joy',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
